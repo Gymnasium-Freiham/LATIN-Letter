@@ -1,0 +1,21 @@
+builds/**/*.c
+latinletter.exe
+*.ico
+*.c
+*.cpp
+*.rc
+framework.h
+app.rc
+app.res
+build.ps1
+*.vcxproj
+*.vcxproj.filters
+Resource.h
+targetver.h
+*.vcxproj.user
+app.obj
+app.manifest
+app.c.last
+app.aps
+LATIN AI Advanced Premium GUI.h
+.vs
