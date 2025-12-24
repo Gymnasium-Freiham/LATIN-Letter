@@ -20,3 +20,5 @@ app.aps
 LATIN AI Advanced Premium GUI.h
 .vs
 src/
+textfor.obj
+extbuild.bat
